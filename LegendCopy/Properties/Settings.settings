@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elk.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TabName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HKS</Value>
+    </Setting>
+    <Setting Name="PanelName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tools</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
