@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="TabName" Type="System.String" Scope="User">
-      <Value Profile="(Default)">HKS</Value>
+      <Value Profile="(Default)">LMN</Value>
     </Setting>
     <Setting Name="PanelName" Type="System.String" Scope="User">
       <Value Profile="(Default)">Tools</Value>
